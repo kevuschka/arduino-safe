@@ -1,0 +1,30 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Arduino / Build files
+*.ino.cpp
+*.elf
+*.hex
+*.bin
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# Dependency folders (falls genutzt)
+node_modules/
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Windows system files
+ehthumbs.db
+Desktop.ini
