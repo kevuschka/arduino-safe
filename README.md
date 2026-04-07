@@ -110,6 +110,8 @@ Minor optimizations were applied:
 ## 🛠️ Setup & Usage
 
 1. Connect all hardware components according to the circuit diagram
+<img width="626" height="743" alt="image" src="https://github.com/user-attachments/assets/a8302c67-97c7-40a4-9a6a-166755140f95" />
+
 2. Upload the code to the Arduino Uno
 3. Power the system
 4. Close the safe door
