@@ -7,6 +7,7 @@ The system is built using an Arduino Uno and combines hardware control, embedded
 
 The safe can be locked and unlocked via a 4-digit PIN entered through a keypad.
 It integrates persistent storage, power-saving mechanisms, and multiple hardware components to simulate a real-world embedded control system.
+<img width="907" height="626" alt="safe_skizze" src="https://github.com/user-attachments/assets/41d0466f-b0f3-4af6-9031-dba616847b61" />
 
 ---
 
